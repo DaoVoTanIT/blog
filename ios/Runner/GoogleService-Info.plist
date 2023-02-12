@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>843060639310-o7l6du6dbvn6nen0i7g198669ve27fts.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.843060639310-o7l6du6dbvn6nen0i7g198669ve27fts</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDldYahZaIvrfdTB8y1mgHnMiR-ZvNx0og</string>
+	<key>GCM_SENDER_ID</key>
+	<string>843060639310</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.techpro.cmms</string>
+	<key>PROJECT_ID</key>
+	<string>techpro-task-ma</string>
+	<key>STORAGE_BUCKET</key>
+	<string>techpro-task-ma.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:843060639310:ios:5997cce46067dbc3c0b51f</string>
+	<key>DATABASE_URL</key>
+	<string>https://techpro-task-ma-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
